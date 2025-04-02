@@ -1,0 +1,16 @@
+# Core dependencies
+boto3>=1.28.0
+cryptography>=41.0.0
+typing-extensions>=4.7.0
+python-dateutil>=2.8.2
+
+# AWS dependencies
+s3transfer>=0.6.1
+botocore>=1.31.0
+
+# Crypto dependencies
+pycparser>=2.21
+cffi>=1.15.1
+
+# General utilities
+pytz>=2023.3

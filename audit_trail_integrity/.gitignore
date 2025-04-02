@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Keys and signatures (for security)
+*.pem
+*.key
+*.sig
+*.sha256
+
+# Logs
+*.log
+logs/
+
+# AWS
+.aws/
+.aws-sam/
+
+# Local environment
+.env
+.env.local
+.env.dev
+.env.test
+.env.prod
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Temporary files
+tmp/
+temp/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Test coverage
+.coverage
+htmlcov/
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+
+# Distribution
+dist/
+build/
