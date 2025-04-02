@@ -26,7 +26,7 @@ The system consists of several components:
 ```bash
 # Clone the repository
 git clone https://github.com/PaulDuvall/public.git
-cd audit_trail_integrity
+cd public/audit_trail_integrity
 
 # Run the setup script
 ./run.sh
