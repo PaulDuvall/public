@@ -24,11 +24,10 @@ The system consists of several components:
 ## Installation
 
 ```bash
-# Clone the repository
 git clone https://github.com/PaulDuvall/public.git
 cd public/audit_trail_integrity
 
-# Run the setup script
+chmod +x *.sh
 ./run.sh
 ```
 
