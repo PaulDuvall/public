@@ -58,7 +58,8 @@ python3 main.py demo --clean
 ### Integrating in Your Application
 
 ```python
-from audit_trail import AuditTrailProcessor
+# Import the main processor class
+from log_signer import AuditTrailProcessor
 
 # Initialize the processor
 processor = AuditTrailProcessor()
