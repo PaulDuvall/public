@@ -74,6 +74,7 @@ processor.log_api_event(
 
 # Process daily logs (e.g., call this from a scheduled job)
 processor.process_daily_logs()
+```
 
 ## Security Considerations
 
