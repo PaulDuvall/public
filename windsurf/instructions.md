@@ -25,7 +25,7 @@ The project employs **Windsurf** for incremental code implementation, efficient 
   - **README & Supplementary Docs:**  
     Regularly update the centralized `README.md` to capture new functionalities, user stories, and traceability links. Maintain additional documentation (e.g., `docs/prompts.md`, `SECURITY.md`) with comprehensive details.
   - **Architectural Guidance:**  
-    Continuously provide Windsurf with guidance on the overall architecture, services, and tooling. When nonoptimal results occur, switch between available LLMs to improve outcomes.
+    Continuously provide Windsurf with guidance on the overall architecture, services, and tooling. When suboptimal results occur, switch between available LLMs to improve outcomes.
 
 - **Automation & Analysis:**
   - **GitHub Actions for Refactoring:**  
