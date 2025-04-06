@@ -1,4 +1,4 @@
-## 2. Global Development Standards & Best Practices (`global_rules.md`) 
+## 2. Global Development Standards & Best Practices (`~/.codeium/windsurf/memories/global_rules.md`) 
 
 - **Python Execution & Naming Conventions:**
   - Execute shell scripts using bash; instead of running Python scripts directly, invoke them via bash using a command like`python3 script.py`.
