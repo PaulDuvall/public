@@ -44,7 +44,7 @@ The project employs **Windsurf** for incremental code implementation, efficient 
 ## 2. Global Development Standards & Best Practices (`global_rules.md`) 
 
 - **Python Execution & Naming Conventions:**
-  - Execute scripts using `python3 script.py`.
+  - Execute shell scripts using bash; instead of running Python scripts directly, invoke them via bash using a command like`python3 script.py`.
   - Use underscores for file, directory, and script names.
 
 - **Infrastructure as Code (IaC):**
