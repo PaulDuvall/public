@@ -12,7 +12,7 @@ The project employs **Windsurf** for incremental code implementation, efficient 
   - **Incremental Code Implementation:**  
     Instruct Windsurf to implement code in the smallest increments possible using the user story acceptance criteria.
   - **Test-Driven Development (TDD):**  
-    Write automated tests (using pytest) first. These tests should initially fail; then implement the code so that the tests pass.
+    Adopt a Test-Driven Development (TDD) approach by writing comprehensive automated tests with pytest before any implementation, ensuring they capture the desired behavior and initially fail to confirm missing functionality. Then, implement the minimal code required to make these tests pass, and iteratively refactor while maintaining green test results. This process not only validates functionality but also serves as living documentation of the code's intended behavior.
 
 - **Memory & Traceability:**
   - **Memory Utilization:**  
