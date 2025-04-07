@@ -1,9 +1,6 @@
 
 > **Technology Stack:**  
 > The solution is built with **Python 3.11** and leverages a suite of **AWS services** for robust infrastructure management. GitHub Actions powers the CI/CD pipeline to ensure streamlined builds, tests, and deployments.
-> 
-> **Tooling:**  
-> The project employs **Windsurf** for incremental code implementation, efficient memory management, and seamless integration of user stories with testing.
 
 ---
 
