@@ -1,4 +1,3 @@
-
 > **Technology Stack:**  
 > The solution is built with **Python 3.11** and leverages a suite of **AWS services** for robust infrastructure management. GitHub Actions powers the CI/CD pipeline to ensure streamlined builds, tests, and deployments.
 
@@ -69,6 +68,7 @@
 - Develop using Python 3.11 within a virtual environment.
 - Follow [PEP8](https://peps.python.org/pep-0008/) guidelines with detailed inline comments and comprehensive documentation.
 - Manage dependencies through `requirements.txt` and, where appropriate, use AWS Lambda layers.
+- Only include packages in requirements files that are actively used by the project; remove any unused dependencies to ensure minimal, secure, and maintainable environments.
 
 ### 2.4 Cross-Platform & CI/CD
 - Ensure compatibility on macOS and Linux.
@@ -166,4 +166,3 @@ Maintain a comprehensive, up-to-date change log that documents all project modif
   - [GitHub Actions OIDC Documentation](https://docs.github.com/en/actions/deployment/security-hardening-your-deployments/about-security-hardening-with-openid-connect)
 
 ---
-
